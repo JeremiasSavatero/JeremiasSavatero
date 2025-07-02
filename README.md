@@ -3,10 +3,16 @@
 
 
 <h4> Languages </h4>
-<span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" >
 </span>
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JeremiasSavatero&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
